@@ -1,2 +1,2 @@
-server:
-  port: 10088
+config:
+  info: abcd
